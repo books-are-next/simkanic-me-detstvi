@@ -1,36 +1,109 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Mé dětství v socialismu
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Ján Simkanič
+  publisher: Městská knihovna v Praze
+  modified: '2021-01-12T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - me_detstvi_v_socialismu_001.html
+  - me_detstvi_v_socialismu_002.html
+  - me_detstvi_v_socialismu_003.html
+  - me_detstvi_v_socialismu_004.html
+  - me_detstvi_v_socialismu_005.html
+  - me_detstvi_v_socialismu_006.html
+  - me_detstvi_v_socialismu_007.html
+  - me_detstvi_v_socialismu_008.html
+  - me_detstvi_v_socialismu_009.html
+  - me_detstvi_v_socialismu_010.html
+  - me_detstvi_v_socialismu_011.html
+  - me_detstvi_v_socialismu_012.html
+  - me_detstvi_v_socialismu_013.html
+  - me_detstvi_v_socialismu_014.html
+  - me_detstvi_v_socialismu_015.html
+  - me_detstvi_v_socialismu_016.html
+  - me_detstvi_v_socialismu_017.html
+  - me_detstvi_v_socialismu_018.html
+  - me_detstvi_v_socialismu_019.html
+  - me_detstvi_v_socialismu_020.html
+  - me_detstvi_v_socialismu_021.html
+  - me_detstvi_v_socialismu_022.html
+  - me_detstvi_v_socialismu_023.html
+  - me_detstvi_v_socialismu_024.html
+  - me_detstvi_v_socialismu_025.html
+  - me_detstvi_v_socialismu_026.html
+  - me_detstvi_v_socialismu_027.html
+  - me_detstvi_v_socialismu_028.html
+  - me_detstvi_v_socialismu_029.html
+  - me_detstvi_v_socialismu_030.html
+  - me_detstvi_v_socialismu_031.html
+  - me_detstvi_v_socialismu_032.html
+  - me_detstvi_v_socialismu_033.html
+  - me_detstvi_v_socialismu_034.html
+  - me_detstvi_v_socialismu_035.html
+  - me_detstvi_v_socialismu_036.html
+  - me_detstvi_v_socialismu_037.html
+  - me_detstvi_v_socialismu_038.html
+  - me_detstvi_v_socialismu_039.html
+  - me_detstvi_v_socialismu_040.html
+  - me_detstvi_v_socialismu_041.html
+  - me_detstvi_v_socialismu_042.html
+  - me_detstvi_v_socialismu_043.html
+  - me_detstvi_v_socialismu_044.html
+  - me_detstvi_v_socialismu_045.html
+  - me_detstvi_v_socialismu_046.html
+  - me_detstvi_v_socialismu_047.html
+  - me_detstvi_v_socialismu_048.html
+  - me_detstvi_v_socialismu_049.html
+  - me_detstvi_v_socialismu_050.html
+  - me_detstvi_v_socialismu_051.html
+  - me_detstvi_v_socialismu_052.html
+  - me_detstvi_v_socialismu_053.html
+  - me_detstvi_v_socialismu_054.html
+  - me_detstvi_v_socialismu_055.html
+  - me_detstvi_v_socialismu_056.html
+  - me_detstvi_v_socialismu_057.html
+  - me_detstvi_v_socialismu_058.html
+  - me_detstvi_v_socialismu_059.html
+  - me_detstvi_v_socialismu_060.html
+  - me_detstvi_v_socialismu_061.html
+  - me_detstvi_v_socialismu_062.html
+  - me_detstvi_v_socialismu_063.html
+  - me_detstvi_v_socialismu_064.html
+  - me_detstvi_v_socialismu_065.html
+  - me_detstvi_v_socialismu_066.html
+  - me_detstvi_v_socialismu_067.html
+  - me_detstvi_v_socialismu_068.html
+  - me_detstvi_v_socialismu_069.html
+  - me_detstvi_v_socialismu_070.html
+  - me_detstvi_v_socialismu_071.html
+  - me_detstvi_v_socialismu_072.html
+  - me_detstvi_v_socialismu_073.html
+  - me_detstvi_v_socialismu_074.html
+  - me_detstvi_v_socialismu_075.html
+  - me_detstvi_v_socialismu_076.html
+  - me_detstvi_v_socialismu_077.html
+  - me_detstvi_v_socialismu_078.html
+  - me_detstvi_v_socialismu_079.html
+  - me_detstvi_v_socialismu_080.html
+  - me_detstvi_v_socialismu_081.html
+  - me_detstvi_v_socialismu_082.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
+  - assets
   - favicon.png
 ---

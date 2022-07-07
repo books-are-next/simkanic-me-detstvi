@@ -1,0 +1,1903 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Mé dětství v socialismu",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ján Simkanič",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-01-12T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "me_detstvi_v_socialismu_001.md",
+            "xhtml": "me_detstvi_v_socialismu_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_002.md",
+            "xhtml": "me_detstvi_v_socialismu_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_003.md",
+            "xhtml": "me_detstvi_v_socialismu_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_004.md",
+            "xhtml": "me_detstvi_v_socialismu_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_005.md",
+            "xhtml": "me_detstvi_v_socialismu_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_006.md",
+            "xhtml": "me_detstvi_v_socialismu_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_007.md",
+            "xhtml": "me_detstvi_v_socialismu_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_008.md",
+            "xhtml": "me_detstvi_v_socialismu_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_009.md",
+            "xhtml": "me_detstvi_v_socialismu_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_010.md",
+            "xhtml": "me_detstvi_v_socialismu_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_011.md",
+            "xhtml": "me_detstvi_v_socialismu_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_012.md",
+            "xhtml": "me_detstvi_v_socialismu_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_013.md",
+            "xhtml": "me_detstvi_v_socialismu_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_014.md",
+            "xhtml": "me_detstvi_v_socialismu_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_015.md",
+            "xhtml": "me_detstvi_v_socialismu_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_016.md",
+            "xhtml": "me_detstvi_v_socialismu_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_017.md",
+            "xhtml": "me_detstvi_v_socialismu_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_018.md",
+            "xhtml": "me_detstvi_v_socialismu_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_019.md",
+            "xhtml": "me_detstvi_v_socialismu_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_020.md",
+            "xhtml": "me_detstvi_v_socialismu_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_021.md",
+            "xhtml": "me_detstvi_v_socialismu_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_022.md",
+            "xhtml": "me_detstvi_v_socialismu_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_023.md",
+            "xhtml": "me_detstvi_v_socialismu_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_024.md",
+            "xhtml": "me_detstvi_v_socialismu_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_025.md",
+            "xhtml": "me_detstvi_v_socialismu_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_026.md",
+            "xhtml": "me_detstvi_v_socialismu_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_027.md",
+            "xhtml": "me_detstvi_v_socialismu_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_028.md",
+            "xhtml": "me_detstvi_v_socialismu_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_029.md",
+            "xhtml": "me_detstvi_v_socialismu_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_030.md",
+            "xhtml": "me_detstvi_v_socialismu_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_031.md",
+            "xhtml": "me_detstvi_v_socialismu_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_032.md",
+            "xhtml": "me_detstvi_v_socialismu_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_033.md",
+            "xhtml": "me_detstvi_v_socialismu_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_034.md",
+            "xhtml": "me_detstvi_v_socialismu_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_035.md",
+            "xhtml": "me_detstvi_v_socialismu_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_036.md",
+            "xhtml": "me_detstvi_v_socialismu_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_037.md",
+            "xhtml": "me_detstvi_v_socialismu_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_038.md",
+            "xhtml": "me_detstvi_v_socialismu_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_039.md",
+            "xhtml": "me_detstvi_v_socialismu_039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_040.md",
+            "xhtml": "me_detstvi_v_socialismu_040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_041.md",
+            "xhtml": "me_detstvi_v_socialismu_041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_042.md",
+            "xhtml": "me_detstvi_v_socialismu_042.xhtml",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_043.md",
+            "xhtml": "me_detstvi_v_socialismu_043.xhtml",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_044.md",
+            "xhtml": "me_detstvi_v_socialismu_044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_045.md",
+            "xhtml": "me_detstvi_v_socialismu_045.xhtml",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_046.md",
+            "xhtml": "me_detstvi_v_socialismu_046.xhtml",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_047.md",
+            "xhtml": "me_detstvi_v_socialismu_047.xhtml",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_048.md",
+            "xhtml": "me_detstvi_v_socialismu_048.xhtml",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_049.md",
+            "xhtml": "me_detstvi_v_socialismu_049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_050.md",
+            "xhtml": "me_detstvi_v_socialismu_050.xhtml",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_051.md",
+            "xhtml": "me_detstvi_v_socialismu_051.xhtml",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_052.md",
+            "xhtml": "me_detstvi_v_socialismu_052.xhtml",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_053.md",
+            "xhtml": "me_detstvi_v_socialismu_053.xhtml",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_054.md",
+            "xhtml": "me_detstvi_v_socialismu_054.xhtml",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_055.md",
+            "xhtml": "me_detstvi_v_socialismu_055.xhtml",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_056.md",
+            "xhtml": "me_detstvi_v_socialismu_056.xhtml",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_057.md",
+            "xhtml": "me_detstvi_v_socialismu_057.xhtml",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_058.md",
+            "xhtml": "me_detstvi_v_socialismu_058.xhtml",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_059.md",
+            "xhtml": "me_detstvi_v_socialismu_059.xhtml",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_060.md",
+            "xhtml": "me_detstvi_v_socialismu_060.xhtml",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_061.md",
+            "xhtml": "me_detstvi_v_socialismu_061.xhtml",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_062.md",
+            "xhtml": "me_detstvi_v_socialismu_062.xhtml",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_063.md",
+            "xhtml": "me_detstvi_v_socialismu_063.xhtml",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_064.md",
+            "xhtml": "me_detstvi_v_socialismu_064.xhtml",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_065.md",
+            "xhtml": "me_detstvi_v_socialismu_065.xhtml",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_066.md",
+            "xhtml": "me_detstvi_v_socialismu_066.xhtml",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_067.md",
+            "xhtml": "me_detstvi_v_socialismu_067.xhtml",
+            "id": 66,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_068.md",
+            "xhtml": "me_detstvi_v_socialismu_068.xhtml",
+            "id": 67,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_069.md",
+            "xhtml": "me_detstvi_v_socialismu_069.xhtml",
+            "id": 68,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_070.md",
+            "xhtml": "me_detstvi_v_socialismu_070.xhtml",
+            "id": 69,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_071.md",
+            "xhtml": "me_detstvi_v_socialismu_071.xhtml",
+            "id": 70,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_072.md",
+            "xhtml": "me_detstvi_v_socialismu_072.xhtml",
+            "id": 71,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_073.md",
+            "xhtml": "me_detstvi_v_socialismu_073.xhtml",
+            "id": 72,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_074.md",
+            "xhtml": "me_detstvi_v_socialismu_074.xhtml",
+            "id": 73,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_075.md",
+            "xhtml": "me_detstvi_v_socialismu_075.xhtml",
+            "id": 74,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_076.md",
+            "xhtml": "me_detstvi_v_socialismu_076.xhtml",
+            "id": 75,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_077.md",
+            "xhtml": "me_detstvi_v_socialismu_077.xhtml",
+            "id": 76,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_078.md",
+            "xhtml": "me_detstvi_v_socialismu_078.xhtml",
+            "id": 77,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_079.md",
+            "xhtml": "me_detstvi_v_socialismu_079.xhtml",
+            "id": 78,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_080.md",
+            "xhtml": "me_detstvi_v_socialismu_080.xhtml",
+            "id": 79,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_081.md",
+            "xhtml": "me_detstvi_v_socialismu_081.xhtml",
+            "id": 80,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "me_detstvi_v_socialismu_082.md",
+            "xhtml": "me_detstvi_v_socialismu_082.xhtml",
+            "id": 81,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Mé dětství v socialismu",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ján Simkanič",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-01-12T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_001.md",
+        "xhtml": "me_detstvi_v_socialismu_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_002.md",
+        "xhtml": "me_detstvi_v_socialismu_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_003.md",
+        "xhtml": "me_detstvi_v_socialismu_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_004.md",
+        "xhtml": "me_detstvi_v_socialismu_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_005.md",
+        "xhtml": "me_detstvi_v_socialismu_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_006.md",
+        "xhtml": "me_detstvi_v_socialismu_006.xhtml"
+      },
+      {
+        "titleSuggest": "Poděkování",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_007.md",
+        "xhtml": "me_detstvi_v_socialismu_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_008.md",
+        "xhtml": "me_detstvi_v_socialismu_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_009.md",
+        "xhtml": "me_detstvi_v_socialismu_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_010.md",
+        "xhtml": "me_detstvi_v_socialismu_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_011.md",
+        "xhtml": "me_detstvi_v_socialismu_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_012.md",
+        "xhtml": "me_detstvi_v_socialismu_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_013.md",
+        "xhtml": "me_detstvi_v_socialismu_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_014.md",
+        "xhtml": "me_detstvi_v_socialismu_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_015.md",
+        "xhtml": "me_detstvi_v_socialismu_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_016.md",
+        "xhtml": "me_detstvi_v_socialismu_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_017.md",
+        "xhtml": "me_detstvi_v_socialismu_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_018.md",
+        "xhtml": "me_detstvi_v_socialismu_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_019.md",
+        "xhtml": "me_detstvi_v_socialismu_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_020.md",
+        "xhtml": "me_detstvi_v_socialismu_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_021.md",
+        "xhtml": "me_detstvi_v_socialismu_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_022.md",
+        "xhtml": "me_detstvi_v_socialismu_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_023.md",
+        "xhtml": "me_detstvi_v_socialismu_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_024.md",
+        "xhtml": "me_detstvi_v_socialismu_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_025.md",
+        "xhtml": "me_detstvi_v_socialismu_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_026.md",
+        "xhtml": "me_detstvi_v_socialismu_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_027.md",
+        "xhtml": "me_detstvi_v_socialismu_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_028.md",
+        "xhtml": "me_detstvi_v_socialismu_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_029.md",
+        "xhtml": "me_detstvi_v_socialismu_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_030.md",
+        "xhtml": "me_detstvi_v_socialismu_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_031.md",
+        "xhtml": "me_detstvi_v_socialismu_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_032.md",
+        "xhtml": "me_detstvi_v_socialismu_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_033.md",
+        "xhtml": "me_detstvi_v_socialismu_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_034.md",
+        "xhtml": "me_detstvi_v_socialismu_034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_035.md",
+        "xhtml": "me_detstvi_v_socialismu_035.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_036.md",
+        "xhtml": "me_detstvi_v_socialismu_036.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_037.md",
+        "xhtml": "me_detstvi_v_socialismu_037.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_038.md",
+        "xhtml": "me_detstvi_v_socialismu_038.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_039.md",
+        "xhtml": "me_detstvi_v_socialismu_039.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_040.md",
+        "xhtml": "me_detstvi_v_socialismu_040.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_041.md",
+        "xhtml": "me_detstvi_v_socialismu_041.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_042.md",
+        "xhtml": "me_detstvi_v_socialismu_042.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_043.md",
+        "xhtml": "me_detstvi_v_socialismu_043.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_044.md",
+        "xhtml": "me_detstvi_v_socialismu_044.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_045.md",
+        "xhtml": "me_detstvi_v_socialismu_045.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_046.md",
+        "xhtml": "me_detstvi_v_socialismu_046.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_047.md",
+        "xhtml": "me_detstvi_v_socialismu_047.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_048.md",
+        "xhtml": "me_detstvi_v_socialismu_048.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_049.md",
+        "xhtml": "me_detstvi_v_socialismu_049.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_050.md",
+        "xhtml": "me_detstvi_v_socialismu_050.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_051.md",
+        "xhtml": "me_detstvi_v_socialismu_051.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_052.md",
+        "xhtml": "me_detstvi_v_socialismu_052.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_053.md",
+        "xhtml": "me_detstvi_v_socialismu_053.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_054.md",
+        "xhtml": "me_detstvi_v_socialismu_054.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_055.md",
+        "xhtml": "me_detstvi_v_socialismu_055.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_056.md",
+        "xhtml": "me_detstvi_v_socialismu_056.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_057.md",
+        "xhtml": "me_detstvi_v_socialismu_057.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_058.md",
+        "xhtml": "me_detstvi_v_socialismu_058.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_059.md",
+        "xhtml": "me_detstvi_v_socialismu_059.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_060.md",
+        "xhtml": "me_detstvi_v_socialismu_060.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_061.md",
+        "xhtml": "me_detstvi_v_socialismu_061.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_062.md",
+        "xhtml": "me_detstvi_v_socialismu_062.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_063.md",
+        "xhtml": "me_detstvi_v_socialismu_063.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_064.md",
+        "xhtml": "me_detstvi_v_socialismu_064.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_065.md",
+        "xhtml": "me_detstvi_v_socialismu_065.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_066.md",
+        "xhtml": "me_detstvi_v_socialismu_066.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_067.md",
+        "xhtml": "me_detstvi_v_socialismu_067.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_068.md",
+        "xhtml": "me_detstvi_v_socialismu_068.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_069.md",
+        "xhtml": "me_detstvi_v_socialismu_069.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_070.md",
+        "xhtml": "me_detstvi_v_socialismu_070.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_071.md",
+        "xhtml": "me_detstvi_v_socialismu_071.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_072.md",
+        "xhtml": "me_detstvi_v_socialismu_072.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_073.md",
+        "xhtml": "me_detstvi_v_socialismu_073.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_074.md",
+        "xhtml": "me_detstvi_v_socialismu_074.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_075.md",
+        "xhtml": "me_detstvi_v_socialismu_075.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_076.md",
+        "xhtml": "me_detstvi_v_socialismu_076.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_077.md",
+        "xhtml": "me_detstvi_v_socialismu_077.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_078.md",
+        "xhtml": "me_detstvi_v_socialismu_078.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_079.md",
+        "xhtml": "me_detstvi_v_socialismu_079.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_080.md",
+        "xhtml": "me_detstvi_v_socialismu_080.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_081.md",
+        "xhtml": "me_detstvi_v_socialismu_081.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "me_detstvi_v_socialismu_082.md",
+        "xhtml": "me_detstvi_v_socialismu_082.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/003.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/004.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/005.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/006.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/007.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/008.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/009.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/010.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/011.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/012.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/013.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/014.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/015.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/016.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/017.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/018.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/019.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/020.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/021.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/022.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/023.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/024.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/025.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/026.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/027.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/028.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/029.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/030.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/031.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/032.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/033.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/034.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/035.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/036.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/037.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/038.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/039.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/040.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/041.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/042.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/043.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/044.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/045.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/046.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/047.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/048.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/049.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/050.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/051.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/052.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/053.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/054.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/055.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/056.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/057.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/058.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/059.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/060.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/061.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/062.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/063.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/064.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/065.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/066.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/067.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/068.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/069.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/070.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/071.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/072.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/073.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_me_detstvi_v_socialismu.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-2",
+      "CharOverride-3",
+      "CharOverride-4",
+      "CharOverride-5",
+      "CharOverride-6",
+      "CharOverride-7",
+      "Hyperlink",
+      "MLP_TEXT_UPROSTRED_SOC",
+      "MLP_UROVEN2_SOC",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_obrazky_-12-0-",
+      "MLP_obrazky_-12-12-",
+      "MLP_popis_obrazku_stred",
+      "MLP_prima_rec",
+      "MLP_prima_rec_bez_mezery",
+      "MLP_prima_rec_dalsi_odstavce",
+      "MLP_prima_rec_dalsi_odstavce_6b_za",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-I-",
+      "MLP_text_-I-_-0-12-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-12-12-",
+      "MLP_text_bez1radku_-B-",
+      "MLP_text_bez1radku_-I-",
+      "MLP_text_bez1radku_-I-_-0-12-",
+      "MLP_text_bez1radku_-I-_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_uroven3_nadpis",
+      "MLP_venovani",
+      "MLP_verse_-0-12-",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_tucne_11b",
+      "Normal",
+      "ParaOverride-1",
+      "ParaOverride-10",
+      "ParaOverride-11",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "ParaOverride-7",
+      "ParaOverride-8",
+      "ParaOverride-9",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-10",
+      "_idGenObjectAttribute-11",
+      "_idGenObjectAttribute-12",
+      "_idGenObjectAttribute-13",
+      "_idGenObjectAttribute-14",
+      "_idGenObjectAttribute-15",
+      "_idGenObjectAttribute-16",
+      "_idGenObjectAttribute-17",
+      "_idGenObjectAttribute-18",
+      "_idGenObjectAttribute-19",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-20",
+      "_idGenObjectAttribute-21",
+      "_idGenObjectAttribute-22",
+      "_idGenObjectAttribute-23",
+      "_idGenObjectAttribute-24",
+      "_idGenObjectAttribute-25",
+      "_idGenObjectAttribute-26",
+      "_idGenObjectAttribute-27",
+      "_idGenObjectAttribute-28",
+      "_idGenObjectAttribute-29",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectAttribute-30",
+      "_idGenObjectAttribute-31",
+      "_idGenObjectAttribute-32",
+      "_idGenObjectAttribute-33",
+      "_idGenObjectAttribute-34",
+      "_idGenObjectAttribute-35",
+      "_idGenObjectAttribute-36",
+      "_idGenObjectAttribute-37",
+      "_idGenObjectAttribute-38",
+      "_idGenObjectAttribute-39",
+      "_idGenObjectAttribute-4",
+      "_idGenObjectAttribute-40",
+      "_idGenObjectAttribute-41",
+      "_idGenObjectAttribute-42",
+      "_idGenObjectAttribute-43",
+      "_idGenObjectAttribute-44",
+      "_idGenObjectAttribute-45",
+      "_idGenObjectAttribute-46",
+      "_idGenObjectAttribute-47",
+      "_idGenObjectAttribute-48",
+      "_idGenObjectAttribute-49",
+      "_idGenObjectAttribute-5",
+      "_idGenObjectAttribute-50",
+      "_idGenObjectAttribute-51",
+      "_idGenObjectAttribute-52",
+      "_idGenObjectAttribute-53",
+      "_idGenObjectAttribute-54",
+      "_idGenObjectAttribute-55",
+      "_idGenObjectAttribute-56",
+      "_idGenObjectAttribute-57",
+      "_idGenObjectAttribute-58",
+      "_idGenObjectAttribute-59",
+      "_idGenObjectAttribute-6",
+      "_idGenObjectAttribute-60",
+      "_idGenObjectAttribute-61",
+      "_idGenObjectAttribute-62",
+      "_idGenObjectAttribute-63",
+      "_idGenObjectAttribute-64",
+      "_idGenObjectAttribute-65",
+      "_idGenObjectAttribute-66",
+      "_idGenObjectAttribute-67",
+      "_idGenObjectAttribute-68",
+      "_idGenObjectAttribute-69",
+      "_idGenObjectAttribute-7",
+      "_idGenObjectAttribute-70",
+      "_idGenObjectAttribute-71",
+      "_idGenObjectAttribute-72",
+      "_idGenObjectAttribute-73",
+      "_idGenObjectAttribute-8",
+      "_idGenObjectAttribute-9",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "_idGenParaOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "simkanic-me-detstvi"
+    },
+    "generatedAt": 1657193460258
+  }
+}
